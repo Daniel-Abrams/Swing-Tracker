@@ -36,8 +36,11 @@ Installation Steps:
 *NOTE:* The metrics for each swing will likely be somewhat innacurate, and more precise measurement
 techniques will be developed. Furthermore, the app is best designed for analyzing forehands. Backhand analysis is a seperate challenge that will be a later focus.
 
-##Contributions
+## Contributions
 If for some reason you like this project or have suggestions/criticisms, please fork the repo and create a pull request. You can also open an issue with the tag "enhancement". Or just reach out to me via email. 
 
-##Contact
+## License
+Distributed under the MIT License. See LICENSE.txt for more information. 
+
+## Contact
 email: danlab1104@gmail.com
