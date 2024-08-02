@@ -30,9 +30,12 @@ Installation Steps:
 
 1. To begin using the app, wear your Apple Watch on your dominant (forehand) arm. Open both the iOS app and the watch App.
 2. On your watch app, press "Start Session" to begin a new session.
-3. Start hitting! The app will automatically detect your swings. I reccomend doing 3-10 swings per session. When you are finished, press "Stop Session."
-4. To view your sessions, press "My Sessions in the upper right-hand corner of the mobile app. The screen will populate with your sessions, labled by date. You can expand each session to reveal each swing.
-5. Click on a swing to navigate to its designated interface. Each swing has its own 3D recreation, acceleration graph, racket face orientation graph, and estimated topspin indicator.
+
+![image](https://github.com/user-attachments/assets/8dbeb963-7ed7-4835-b451-867827114b41) 
+
+4. Start hitting! The app will automatically detect your swings. I reccomend doing 3-10 swings per session. When you are finished, press "Stop Session."
+5. To view your sessions, press "My Sessions in the upper right-hand corner of the mobile app. The screen will populate with your sessions, labled by date. You can expand each session to reveal each swing.
+6. Click on a swing to navigate to its designated interface. Each swing has its own 3D recreation, acceleration graph, racket face orientation graph, and estimated topspin indicator.
 *NOTE:* The metrics for each swing will likely be somewhat innacurate, and more precise measurement
 techniques will be developed. Furthermore, the app is best designed for analyzing forehands. Backhand analysis is a seperate challenge that will be a later focus.
 
